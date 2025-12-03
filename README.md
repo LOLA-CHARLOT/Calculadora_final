@@ -167,19 +167,19 @@ Se muestran:
 
 # ¿Cómo ejecutar?
 
-Instala dependencias:
+Instalar dependencias:
 
-pip install numpy matplotlib
+- pip install numpy matplotlib
 
 
 Para ejecutar la app de simulaciones:
 
-python simulaciones_app.py
+- python simulaciones_app.py
 
 
 Para la calculadora de distribuciones:
 
-python distribuciones_app.py
+- python distribuciones_app.py
 
 # Créditos
 
