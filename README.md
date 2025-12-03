@@ -19,7 +19,7 @@ Permite:
 <img width="556" height="376" alt="image" src="https://github.com/user-attachments/assets/d6832038-00de-4758-9228-99a567f52a6b" />
 
 
-# Ideal para cursos de Simulación, Probabilidad y Estadística.
+Ideal para cursos de Simulación, Probabilidad y Estadística:
 
 # 2. Calculadora de Simulaciones (Juego de la Vida + COVID)
 <img width="298" height="161" alt="image" src="https://github.com/user-attachments/assets/edd3632d-b032-4307-ad7c-d5af67508be1" />
